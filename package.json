@@ -1,0 +1,27 @@
+{
+  "name": "personal-portfolio",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000P\u0000o\u0000r\u0000t\u0000f\u0000o\u0000l\u0000i\u0000o\u0000-\u0000W\u0000e\u0000b\u0000s\u0000i\u0000t\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aryan Singh",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aryan-Singh-1017/Portfolio-Website.git"
+  },
+  "keywords": [
+    "website",
+    "portfolio",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "frontend"
+  ],
+  "bugs": {
+    "url": "https://github.com/Aryan-Singh-1017/Portfolio-Website/issues"
+  },
+  "homepage": "https://github.com/Aryan-Singh-1017/Portfolio-Website#readme"
+}
