@@ -15,9 +15,10 @@ body{
 #header{
     width: 100%;
     height:  100vh;
-    background-image: url(images/background.png);
-    background-size: cover;
-    background-position: center;
+    background-image: url(images/my_image2.jpg);
+    background-size: contain;
+    background-position: bottom;
+    background-repeat: no-repeat;
 }
 .container{
     padding: 10px 10%;
@@ -72,7 +73,7 @@ nav ul li a:hover::after{
 /* -----------about------ */
 #about{
     padding: 80px 0;
-    color:  #ababab;
+    color:  #cecece;
 }
 .row{
     display: flex;
@@ -98,10 +99,14 @@ nav ul li a:hover::after{
     font-weight: 600;
     color:#fff;
 }
+.about-col-2 p{
+    font-size: 20px;
+}
 /* aligning tab titles */
 .tab-titles{
     display: flex;
     margin: 20px 0 40px;
+    padding-top: 50px;
     /* --top leftNright bottom-- */
 }
 .tab-links{
@@ -131,8 +136,8 @@ nav ul li a:hover::after{
     margin: 10px 0;
 }
 .tab-contents ul li span{
-    color: #b54769;
-    font-size: 14px;
+    color: #ec2463;
+    font-size: 15px;
 }
 .tab-contents{
     display: none;
@@ -347,7 +352,7 @@ nav .fa-solid{
         font-size: 25px;
     }
     #header{
-        background-image: url(images/phone-background.png);
+        background-image: url(images/phone_background.jpg);
         /* background-repeat: no-repeat;
         background-size: cover; */
         /* background-position: center center; */
